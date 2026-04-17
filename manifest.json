@@ -4,6 +4,10 @@
   "id": "/",
   "start_url": "https://omniotakuu.blogspot.com/",
   "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone"
+  ]
   "orientation": "natural",
   "background_color": "#ffffff",
   "theme_color": "#206694",
