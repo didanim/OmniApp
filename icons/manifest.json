@@ -1,0 +1,20 @@
+{
+  "name": "OmniOtakuu",
+  "short_name": "Omni",
+  "start_url": "https://omniotakuu.blogspot.com",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#206694",
+  "icons": [
+    {
+      "src": "https://didanim.github.io/OmniApp/icons/196.png",
+      "sizes": "196x196",
+      "type": "image/png"
+    },
+    {
+      "src": "https://didanim.github.io/OmniApp/icons/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
