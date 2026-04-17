@@ -24,13 +24,13 @@
   ],
   "screenshots": [
     {
-      "src": "https://didanim.github.io/sugookie/screenshots/mobile-screenshot-1.png",
+      "src": "https://didanim.github.io/OmniApp/screenshots/mobile540x720.jpg",
       "sizes": "540x720",
       "type": "image/png",
       "label": "A preview of the OmniOtakuu homepage on a mobile device."
     },
     {
-      "src": "https://didanim.github.io/sugookie/screenshots/desktop-screenshot-1.png",
+      "src": "https://didanim.github.io/OmniApp/screenshots/desktop1280x800.jpg",
       "sizes": "1280x800",
       "type": "image/png",
       "form_factor": "wide",
