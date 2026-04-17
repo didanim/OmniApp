@@ -1,7 +1,7 @@
 {
   "name": "OmniOtakuu",
   "short_name": "Omni",
-  "start_url": "/",
+  "start_url": "https://omniotakuu.blogspot.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#206694",
