@@ -1,8 +1,10 @@
 {
   "name": "OmniOtakuu",
   "short_name": "Omni",
+  "id": "/",
   "start_url": "https://omniotakuu.blogspot.com/",
   "display": "standalone",
+  "orientation": "natural",
   "background_color": "#ffffff",
   "theme_color": "#206694",
   "description": "Your go-to community for discussions, tutorials, and help. Join the conversation and share your knowledge.",
@@ -11,13 +13,28 @@
       "src": "https://didanim.github.io/OmniApp/icons/196.png",
       "sizes": "196x196",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
       "src": "https://didanim.github.io/OmniApp/icons/512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://didanim.github.io/sugookie/screenshots/mobile-screenshot-1.png",
+      "sizes": "540x720",
+      "type": "image/png",
+      "label": "A preview of the OmniOtakuu homepage on a mobile device."
+    },
+    {
+      "src": "https://didanim.github.io/sugookie/screenshots/desktop-screenshot-1.png",
+      "sizes": "1280x800",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "A preview of the OmniOtakuu homepage on a desktop device."
     }
   ]
 }
