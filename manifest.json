@@ -5,6 +5,7 @@
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#206694",
+  "description": "Your go-to community for discussions, tutorials, and help. Join the conversation and share your knowledge.",
   "icons": [
     {
       "src": "https://didanim.github.io/OmniApp/icons/196.png",
