@@ -1,19 +1,19 @@
-const CACHE_NAME = "omni-v1";
-const OFFLINE_URL = "/"; 
+const CACHE_NAME = "blog-cache-v1";
+const urlsToCache = [
+  "/",
+  "/favicon.ico"
+];
 
-self.addEventListener("install", e => {
-  e.waitUntil(
-    caches.open(CACHE_NAME).then(cache => {
-      return cache.addAll([OFFLINE_URL]);
-    })
+self.addEventListener("install", event => {
+  event.waitUntil(
+    caches.open(CACHE_NAME)
+      .then(cache => cache.addAll(urlsToCache))
   );
-  self.skipWaiting();
 });
 
 self.addEventListener("fetch", event => {
   event.respondWith(
-    fetch(event.request).catch(() => {
-      return caches.match(event.request);
-    })
+    caches.match(event.request)
+      .then(response => response || fetch(event.request))
   );
 });
