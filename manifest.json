@@ -34,13 +34,13 @@
   ],
   "screenshots": [
     {
-      "src": "https://didanim.github.io/OmniApp/screenshots/mobile540x720.jpg",
+      "src": "https://didanim.github.io/OmniApp/screenshots/mobile.jpg",
       "sizes": "540x720",
       "type": "image/png",
       "label": "A preview of WW Forum homepage on a mobile device."
     },
     {
-      "src": "https://didanim.github.io/OmniApp/screenshots/desktop1280x800.jpg",
+      "src": "https://didanim.github.io/OmniApp/screenshots/desktop.jpg",
       "sizes": "1280x800",
       "type": "image/png",
       "form_factor": "wide",
