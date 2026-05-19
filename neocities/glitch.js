@@ -1,5 +1,5 @@
 const target = document.getElementById('glitchTarget');
-  const words = ["CHANGELOG.EXE", "UPDATES.EXE"];
+  const words = ["CHANGELOG", "UPDATES"];
   let currentIndex = 0;
 
   const chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789@#$%&_-+=[]{}";
