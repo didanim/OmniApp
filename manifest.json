@@ -1,6 +1,6 @@
 {
-  "name": "WW Forum",
-  "short_name": "WW Forum",
+  "name": "WriteWhim",
+  "short_name": "WriteWhim",
   "id": "/",
   "start_url": "https://writewhim.blogspot.com/",
   "display": "standalone",
@@ -11,7 +11,7 @@
   "orientation": "natural",
   "background_color": "#ffffff",
   "theme_color": "#206694",
-  "description": "Your go-to Blogger community for discussions, tutorials, and help. Join the conversation and share your knowledge.",
+  "description": "Have questions about blogging? WriteWhim is here to help. Explore helpful tutorials, practical tips, creative ideas, and useful tricks to make blogging easier and more enjoyable. Whether you’re just getting started or looking to improve your blog, find the guidance and inspiration you need—all in one place.",
   "icons": [
     {
       "src": "https://didanim.github.io/OmniApp/icons/196.png",
