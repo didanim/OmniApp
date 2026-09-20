@@ -1,4 +1,4 @@
-## WW Forum | PWA Assets & Configuration
+## WriteWhim | PWA Assets & Configuration
 
 This repository contains the essential components to enable **Progressive Web App (PWA)** functionality for the **WW Forum** Blogger website. These assets ensure a seamless, app-like experience for our community members.
 
